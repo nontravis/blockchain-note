@@ -1,8 +1,11 @@
 # [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide)
 
-##Section 1 : Introduction
 
-###History
+## Section 1 : Introduction
+
+
+### History
+
 **BTC** : “White paper” : describing a system to allow peer to peer payments without a financial intermediary ( like a bank ).
 
 - BTC is **A peer-to-peer electronic cash system.**
@@ -15,13 +18,13 @@
 
 --
 
-###What is Etereum?
+### What is Etereum?
 
 ![what-is-ether](./pictures/what_is_etereum.png)
 ￼
 --
 
-###Metamask 
+### Metamask 
 ￼![what-is-ether](./pictures/metamask.png)
 
 [**Network**](https://ethereum.stackexchange.com/questions/27048/comparison-of-the-different-testnets)
@@ -114,7 +117,7 @@ compile to 2 files
 
 
 
-##Section 2 :
+## Section 2 :
 
 comming soon...
 
