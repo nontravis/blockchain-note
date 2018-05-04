@@ -119,6 +119,29 @@ compile to 2 files
 
 ## Section 2 :
 
-comming soon...
+### Compile
+
+![compile-flow](./pictures/compile-flow.png)
+
+TestRPC is The old name of Ganache.
+
+#### Way to deploy to local test network
+
+- **Ganache**
+- **Remix IDE**: is build-in local test network
+
+![web3](./pictures/web3.png)
+
+### Test
+
+![mocha-function](./pictures/mocha-function.png)
+
+#### Ganache
+
+![ganache-account](./pictures/ganache-account.png)
+
+![web3-contracts](./pictures/web3-contracts.png)
+
+
 
 
